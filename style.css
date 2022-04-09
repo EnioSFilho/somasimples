@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Montserrat:wght@100&family=Nanum+Gothic&family=Roboto:wght@100&family=Ubuntu:wght@300&display=swap');
+
+body{
+
+    margin: 0px;
+    padding: 0px;
+    font-family: Ubuntu;
+}
+
+header{
+
+    text-align: center;
+}
+
+.corpo{
+
+    width: 300px;
+    height: 400px;
+    border: 1px solid red;
+    background: orange;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    justify-content: center;
+    margin-left: 500px;
+
+}
